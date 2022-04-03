@@ -1,33 +1,36 @@
 # react-native-web-example
-Estante React Native Web
+
+
+React Native Web
 this repository was created with an educational proposal and is under development
 
-lage
+<ul>
+  
+  <li>lage</li>
 
-just-scripts
+<li>just-scripts</li>
 
-react-native
+<li>react-native</li>
 
-react-native-web
+<li>react-native-web</l/i>
 
-fluentui-react-native
+<li>fluentui-react-native</li>
 
-storybook
+<li>storybook</li>
 
-grapqhl
+<li>grapqhl</li>
 
-koa
+<li>koa</li>
 
-relay
+<li>relay</li>
 
-typescript
+<li>typescript</li>
+
+</ul>
 
 
 
 yarn
-
 yarn build-tools
-
 yarn build
-
 yarn storybook
